@@ -1,0 +1,15 @@
+langchain-core
+langchain-groq
+crewai
+crewai-tools
+pydantic
+flask
+flask-cors
+supabase
+python-jose
+astrapy
+langchain 
+langchain-astradb
+python-dotenv
+python-docx
+pymupdf

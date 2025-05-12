@@ -1,0 +1,6 @@
+.env
+/__pycache__
+/uploads
+/summaries
+/routes/__pycache__
+/AstraDB/__pycache__

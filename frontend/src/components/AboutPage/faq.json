@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is JobSphere?",
+        "answer": "JobSphere is a comprehensive Job Portal Application that connects job seekers with employers. It allows companies to post job openings and candidates to search, save, and apply for jobs with ease, offering secure and intuitive features."
+    },
+    {
+        "question": "How do I post a job?",
+        "answer": "Employers can post jobs by heading to the 'Post Job' section after logging in. Simply fill out the job details and submit the form to create a listing."
+    },
+    {
+        "question": "How can I search for jobs?",
+        "answer": "Job seekers can search for jobs using the search bar on the homepage or the job search page, filtering by keywords, location, job type, and other criteria."
+    },
+    {
+        "question": "How do I apply for a job?",
+        "answer": "To apply for a job, click on the job listing of interest and follow the provided instructions. You may need to upload your resume and fill out a quick application form."
+    },
+    {
+        "question": "Can I save jobs to apply later?",
+        "answer": "Yes, click the 'Save Job' button on a job listing to save it. You can view saved jobs anytime in your profile under the 'Saved Jobs' section."
+    },
+    {
+        "question": "How do I track my job applications?",
+        "answer": "You can track your applications from the 'My Applications' section in your profile, where you'll find updates on each application’s status."
+    }
+]
