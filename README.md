@@ -25,18 +25,18 @@ TatLumen is an AI-powered multi-featured web platform designed for intelligent c
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React (TypeScript), Tailwind CSS, Shadcn UI  
-- **Backend:** Flask, Supabase & Clerk (Auth & Data), Astra DB  
-- **GEN AI:** LangChain, LLMs (Groq, HuggingFace), CrewAI (Multi-Agent System)  
+- **Frontend:** React (TypeScript), Tailwind CSS, Shadcn UI 
+- **Backend:** Flask, Supabase & Clerk (Auth & Data), Astra DB (Data Stacks)
+- **Gen AI:** LangChain, LLMs (Groq, Nvidia embed-qa), CrewAI (Multi-Agent System)  
 
 ---
 
-## ☁️ Deployment (AWS)
+## ☁️ Deployment (AWS)  
 
 TatLumen is **fully deployed on AWS**, ensuring high scalability, security, and global availability.
 
 - **Frontend:** Deployed on **S3** and distributed via **AWS CloudFront** for secure and fast global access.
-- **Backend:** Hosted on an **EC2 instance**, with environment isolation and scalable compute resources.
+- **Backend:** Hosted on an **EC2 instance** (Ubuntu OS) using Gunicorn and Nginx, with environment isolation and scalable compute resources.
 - **Security:** AWS CloudFront manages HTTPS, CORS, and edge security for both frontend and backend.
 - **Storage & Access:** Documents and logs are stored securely via S3 and accessed using pre-signed URLs when needed.
 
