@@ -41,6 +41,11 @@ TatLumen is **fully deployed on AWS**, ensuring high scalability, security, and 
 - **Storage & Access:** Documents and logs are stored securely via S3 and accessed using pre-signed URLs when needed.
 
 ---
+## 📈 Project Flow
+
+![TatLumen Flowchart](assets/Flowchart.png)
+
+---
 
 ## 📝 License
 
