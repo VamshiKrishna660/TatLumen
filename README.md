@@ -7,13 +7,19 @@ TatLumen is an AI-powered multi-featured web platform designed for intelligent c
 ## 🔍 Features
 
 ### 1. **LinkSage**
-Paste a URL and ask questions. LinkSage reads and understands the webpage content and returns accurate, context-aware answers.
+- Paste a URL and ask questions. LinkSage reads and understands the webpage content and returns accurate, context-aware answers.
+- LinkSage uses LangChain, Groq LLMs, and Hugging Face embeddings to fetch and understand webpage content, transforming it into a searchable vector store.
+- Ideal for quickly extracting insights from articles, blogs, and documentation.
 
 ### 2. **Doc Scanner**
-Paste any URL and ask questions about its content. LinkSage intelligently parses and understands the webpage, using advanced LLMs and context-aware retrieval to deliver precise, relevant answers based on the link’s actual data.
+- Upload a PDF or text document, and click Save to generate a concise, structured summary in Markdown format.
+- Doc Scanner is built with PDF parsing tools, LLM summarization, and Markdown rendering, this feature also includes a download option for the generated summary.
+- It's useful for students, researchers, and professionals who want quick document overviews.
 
 ### 3. **Culprit AI**
-Provide any topic name and get a well-researched, structured article in Markdown format — automatically generated using a multi-agent AI system that collaborates to ensure factual consistency, clarity, and depth of content.
+- Enter a topic name, and Culprit AI generates an in-depth article in Markdown format, complete with subheadings and clean structure.
+- Powered by a multi-agent system (CrewAI), this module mimics a team of AI researchers, writers, and editors working together to produce informative, high-quality content.
+- Perfect for crafting compelling blog posts, sharing domain knowledge, or auto-generating educational content with zero manual effort.
 
 ---
 
