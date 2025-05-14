@@ -26,7 +26,7 @@ TatLumen is an AI-powered multi-featured web platform designed for intelligent c
 ## 🛠 Tech Stack
 
 - **Frontend:** React (TypeScript), Tailwind CSS, Shadcn UI 
-- **Backend:** Flask, Supabase & Clerk (Auth & Data), Astra DB (Data Stacks)
+- **Backend:** Flask, Supabase & Clerk (Auth & Data), Astra DB (Datastax)
 - **Gen AI:** LangChain, LLMs (Groq, Nvidia embed-qa), CrewAI (Multi-Agent System)  
 
 ---
